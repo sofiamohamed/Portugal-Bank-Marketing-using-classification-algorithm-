@@ -38,6 +38,9 @@ Social and economic context attributes
 21) nr.employed: number of employees - quarterly indicator (numeric)
 Output variable (desired target):
 22) y: has the client subscribed a term deposit? (binary: "yes","no")
+
+
+
 Perform the following tasks: Marks
 Q1. What does the primary analysis of several categorical
 features reveal?
