@@ -44,7 +44,7 @@ Output variable (desired target):
 Perform the following tasks: Marks
 Q1. What does the primary analysis of several categorical
 features reveal?
-[5]
+
 Q2. Perform the following Exploratory Data Analysis tasks:
 a. Missing Value Analysis
 b. Label Encoding wherever required
@@ -52,14 +52,14 @@ c. Selecting important features based on Random Forest
 d. Handling unbalanced data using SMOTE
 e. Standardize the data using the anyone of the scalers
 provided by sklearn
-[10]
+
 Q3. Build the following Supervised Learning models:
 a. Logistic Regression
 b. AdaBoost
 c. Naïve Bayes
 d. KNN
 e. SVM
-[10]
+
 Q4. Tabulate the performance metrics of all the above models
 and tell which model performs better in predicting if the
 client will subscribe to term deposit or not
