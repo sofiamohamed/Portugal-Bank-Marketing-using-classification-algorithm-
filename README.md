@@ -42,6 +42,7 @@ Output variable (desired target):
 
 
 Perform the following tasks: Marks
+
 Q1. What does the primary analysis of several categorical
 features reveal?
 
