@@ -21,7 +21,6 @@ affects the output target (e.g., if duration=0 then y="no"). Yet, the duration i
 is performed. Also, after the end of the call y is obviously known. Thus, this input should only be
 included for benchmark purposes and should be discarded if the intention is to have a realistic
 predictive model.
-Exam Paper 1
 Other attributes:
 12) campaign: number of contacts performed during this campaign and for this client (numeric,
 includes last contact)
@@ -39,3 +38,25 @@ Social and economic context attributes
 21) nr.employed: number of employees - quarterly indicator (numeric)
 Output variable (desired target):
 22) y: has the client subscribed a term deposit? (binary: "yes","no")
+Perform the following tasks: Marks
+Q1. What does the primary analysis of several categorical
+features reveal?
+[5]
+Q2. Perform the following Exploratory Data Analysis tasks:
+a. Missing Value Analysis
+b. Label Encoding wherever required
+c. Selecting important features based on Random Forest
+d. Handling unbalanced data using SMOTE
+e. Standardize the data using the anyone of the scalers
+provided by sklearn
+[10]
+Q3. Build the following Supervised Learning models:
+a. Logistic Regression
+b. AdaBoost
+c. Naïve Bayes
+d. KNN
+e. SVM
+[10]
+Q4. Tabulate the performance metrics of all the above models
+and tell which model performs better in predicting if the
+client will subscribe to term deposit or not
